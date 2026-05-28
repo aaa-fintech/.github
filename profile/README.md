@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aaa-fintech/.github/main/profile/logo.png" alt="AAA Financial Technology" width="280"/>
+<a href="https://github.com/aaa-fintech">
+  <img src="https://raw.githubusercontent.com/aaa-fintech/.github/main/profile/logo-animated.svg" alt="AAA Financial Technology" width="260"/>
+</a>
 
 # AAA Financial Technology
 
