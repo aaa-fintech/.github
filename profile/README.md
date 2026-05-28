@@ -1,81 +1,82 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4aa&height=220&section=header&text=aaa-fintech&fontSize=60&fontColor=00d4aa&fontAlignY=35&desc=Automating%20the%20Future%20of%20Finance&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6fc,50:d0e8ff,100:0969da&height=220&section=header&text=aaa-fintech&fontSize=60&fontColor=0969da&fontAlignY=35&desc=Automating%20the%20Future%20of%20Finance&descSize=18&descColor=57606a&descAlignY=55&animation=fadeIn">
-  <img alt="aaa-fintech header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4aa&height=220&section=header&text=aaa-fintech&fontSize=60&fontColor=00d4aa&fontAlignY=35&desc=Automating%20the%20Future%20of%20Finance&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%">
-</picture>
-
 <div align="center">
 
-### We build tools that make financial operations effortless.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0F6E56,100:1D9E75&height=160&section=header&text=aaa-fintech&fontSize=48&fontColor=5DCAA5&fontAlignY=45&animation=fadeIn&stroke=1D9E75&strokeWidth=1" width="100%"/>
 
-From **ERP automation** to **accounting workflows**, we ship solutions<br>
+**We build tools that make financial operations effortless.**
+
+From ERP automation to accounting workflows, we ship solutions<br>
 that eliminate manual work and let finance teams focus on what matters.
 
----
+<br>
 
-`NetSuite` · `ERP Integrations` · `Workflow Automation` · `Financial Data Pipelines`
-
----
+[![NetSuite](https://img.shields.io/badge/◆_NetSuite-%230d1117?style=for-the-badge&logoColor=5DCAA5)](.)
+[![SuiteScript](https://img.shields.io/badge/◆_SuiteScript-%230d1117?style=for-the-badge&logoColor=5DCAA5)](.)
+[![Node.js](https://img.shields.io/badge/◆_Node.js-%230d1117?style=for-the-badge&logo=nodedotjs&logoColor=5DCAA5)](.)
+[![Python](https://img.shields.io/badge/◆_Python-%230d1117?style=for-the-badge&logo=python&logoColor=5DCAA5)](.)
+[![SuiteQL](https://img.shields.io/badge/◆_SuiteQL-%230d1117?style=for-the-badge&logoColor=5DCAA5)](.)
 
 </div>
 
-## 🏗️ What We're Building
+<br>
 
 <table>
+<tr><td colspan="2">
+
+## &nbsp;&nbsp;⚡&ensp;What we ship
+
+</td></tr>
 <tr>
 <td width="50%" valign="top">
 
-**⚡ ERP Automation**<br>
-Streamlining journal entries, approval workflows, and posting period management across NetSuite environments.
+#### &nbsp;🔩&ensp;ERP Automation
+
+&nbsp;&nbsp;&nbsp;Journal entries, approval workflows, and posting<br>
+&nbsp;&nbsp;&nbsp;period management across NetSuite environments.
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Financial Data Pipelines**<br>
-Reliable data movement between accounting systems, ensuring accuracy and auditability at every step.
+#### &nbsp;📡&ensp;Data Pipelines
+
+&nbsp;&nbsp;&nbsp;Reliable data movement between accounting<br>
+&nbsp;&nbsp;&nbsp;systems — accuracy and auditability at every step.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔄 Workflow Orchestration**<br>
-Custom automation for distribution requests, reversals, and multi-step financial processes.
+#### &nbsp;🔗&ensp;Workflow Orchestration
+
+&nbsp;&nbsp;&nbsp;Custom automation for distribution requests,<br>
+&nbsp;&nbsp;&nbsp;reversals, and multi-step financial processes.
 
 </td>
 <td width="50%" valign="top">
 
-**🛡️ Compliance & Controls**<br>
-Built-in guardrails for approval hierarchies, period controls, and audit trails.
+#### &nbsp;🛡️&ensp;Compliance Controls
+
+&nbsp;&nbsp;&nbsp;Built-in guardrails for approval hierarchies,<br>
+&nbsp;&nbsp;&nbsp;period controls, and audit trails.
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+<br>
 
 <div align="center">
 
-![NetSuite](https://img.shields.io/badge/NetSuite-1B4F72?style=for-the-badge&logo=oracle&logoColor=white)
-![SuiteScript](https://img.shields.io/badge/SuiteScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+|  | Integrations | Uptime | Manual JEs |
+|:-:|:-:|:-:|:-:|
+| 📊 | **12+** | **99.9%** | **0** |
+
+<br>
+
+<br>
+
+<sub>built with ☕ and too many journal entries</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0F6E56,100:1D9E75&height=80&section=footer&stroke=1D9E75&strokeWidth=1" width="100%"/>
 
 </div>
-
-
-<div align="center">
-
----
-
-<sub>Built with ☕ and too many journal entries.</sub>
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4aa&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f6fc,50:d0e8ff,100:0969da&height=100&section=footer">
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4aa&height=100&section=footer" width="100%">
-</picture>
-
