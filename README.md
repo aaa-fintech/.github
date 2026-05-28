@@ -73,11 +73,6 @@ that eliminate manual work and let finance teams focus on what matters.
 
 <br>
 
-> 📌 **New here?** Check out our pinned repositories below.<br>
-> Contributions, issues, and discussions are always welcome.
-
-<br>
-
 <sub>built with ☕ and too many journal entries</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0F6E56,100:1D9E75&height=80&section=footer&stroke=1D9E75&strokeWidth=1" width="100%"/>
