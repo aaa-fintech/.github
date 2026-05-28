@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0F6E56,100:1D9E75&height=160&section=header&text=aaa-fintech&fontSize=48&fontColor=5DCAA5&fontAlignY=45&animation=fadeIn&stroke=1D9E75&strokeWidth=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/aaa-fintech/.github/main/profile/logo.png" alt="AAA Financial Technology" width="280"/>
+
+# AAA Financial Technology
 
 **We build tools that make financial operations effortless.**
 
@@ -17,53 +19,53 @@ that eliminate manual work and let finance teams focus on what matters.
 
 </div>
 
-<br>
+<div align="center">
 
 <table>
-<tr><td colspan="2">
+<tr><td colspan="2" align="center">
 
-## &nbsp;&nbsp;⚡&ensp;What we ship
+### ⚡&ensp;What we ship
 
 </td></tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### &nbsp;🔩&ensp;ERP Automation
+**🔩&ensp;ERP Automation**
 
-&nbsp;&nbsp;&nbsp;Journal entries, approval workflows, and posting<br>
-&nbsp;&nbsp;&nbsp;period management across NetSuite environments.
+Journal entries, approval workflows, and posting<br>
+period management across NetSuite environments.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### &nbsp;📡&ensp;Data Pipelines
+**📡&ensp;Data Pipelines**
 
-&nbsp;&nbsp;&nbsp;Reliable data movement between accounting<br>
-&nbsp;&nbsp;&nbsp;systems — accuracy and auditability at every step.
+Reliable data movement between accounting<br>
+systems — accuracy and auditability at every step.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### &nbsp;🔗&ensp;Workflow Orchestration
+**🔗&ensp;Workflow Orchestration**
 
-&nbsp;&nbsp;&nbsp;Custom automation for distribution requests,<br>
-&nbsp;&nbsp;&nbsp;reversals, and multi-step financial processes.
+Custom automation for distribution requests,<br>
+reversals, and multi-step financial processes.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-#### &nbsp;🛡️&ensp;Compliance Controls
+**🛡️&ensp;Compliance Controls**
 
-&nbsp;&nbsp;&nbsp;Built-in guardrails for approval hierarchies,<br>
-&nbsp;&nbsp;&nbsp;period controls, and audit trails.
+Built-in guardrails for approval hierarchies,<br>
+period controls, and audit trails.
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
 
 <div align="center">
 
@@ -73,10 +75,6 @@ that eliminate manual work and let finance teams focus on what matters.
 
 <br>
 
-<br>
-
 <sub>built with ☕ and too many journal entries</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0F6E56,100:1D9E75&height=80&section=footer&stroke=1D9E75&strokeWidth=1" width="100%"/>
 
 </div>
